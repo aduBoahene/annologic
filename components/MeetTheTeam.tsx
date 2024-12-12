@@ -17,25 +17,25 @@ const teamMembers: TeamMember[] = [
   {
     name: "George Boateng",
     role: "CEO & Founder",
-    bio: "Alice has over 15 years of experience in tech and is passionate about creating innovative solutions.",
+    bio: "George has over 15 years of experience in tech and is passionate about creating innovative solutions.",
     imageUrl: "/GB.webp"
   },
   {
     name: "Emmanuel Koduah",
     role: "CTO",
-    bio: "Bob is a full-stack developer with a keen interest in AI and machine learning.",
+    bio: "Emmanuel is a full-stack developer with a keen interest in AI and machine learning.",
     imageUrl: "/fred.jpeg"
   },
   {
     name: "Berlinda Anaman",
     role: "Head of Design",
-    bio: "Carol brings her creative vision to life, ensuring our products are both beautiful and functional.",
+    bio: "Berlinda brings her creative vision to life, ensuring our products are both beautiful and functional.",
     imageUrl: "/ba.jpg"
   },
   {
     name: "Fred Ayison",
     role: "Lead Developer",
-    bio: "David is a coding wizard with a passion for clean, efficient code and scalable architectures.",
+    bio: "Fred is a coding wizard with a passion for clean, efficient code and scalable architectures.",
     imageUrl: "/mk.jpg"
   },
 ]

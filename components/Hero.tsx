@@ -35,7 +35,7 @@ export function Hero() {
         </div>
         
         {/* Placeholder for Image */}
-        <div className="w-full lg:w-1/3 mt-6 lg:mt-0 border border-2">
+        <div className="w-full lg:w-1/3 mt-6 lg:mt-0 border border-2 hidden md:block">
           {/* Updated Image with relative sizing */}
           <Image 
             src="/nb.jpg" 
