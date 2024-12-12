@@ -3,6 +3,7 @@ import { useState } from 'react';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import { Menu, X } from 'lucide-react';
+import Link from 'next/link';
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -29,7 +30,9 @@ export function Header() {
             height={32}
             className="mr-4 md:mr-6"
           /> */}
+          <Link href="/">
           <h3 className='text-3xl text-purple-900' style={{fontFamily:"Montserrat-Bold"}}>Annologic</h3>
+          </Link>
         </div>
 
         {/* Desktop Navigation */}
