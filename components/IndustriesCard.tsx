@@ -26,8 +26,8 @@ export function IndustriesCard({
         </h4>
         <p className="pt-4 text-sm md:text-base">{description}</p>
 
-        <div className="relative inline-block border border-gray-400 mt-8 md:mt-16 py-2 px-6 text-black font-bold overflow-hidden group">
-          <span className="absolute inset-0 bg-black transform scale-y-0 origin-bottom transition-transform duration-300 group-hover:scale-y-100"></span>
+        <div className="relative inline-block border border-purple-100 mt-8 md:mt-16 py-2 px-6 text-black font-bold overflow-hidden group">
+          <span className="absolute inset-0 bg-purple-900 transform scale-y-0 origin-bottom transition-transform duration-300 group-hover:scale-y-100"></span>
           <span className="relative z-10 group-hover:text-white transition-colors duration-300">
             LEARN MORE
           </span>
